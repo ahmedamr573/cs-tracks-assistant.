@@ -38,7 +38,6 @@ Why the rules are in code and not only in the prompt: a 7B model ignores prompt 
 | `app.py` | Scope gate, answer logic, filters, and a small local web chat page (standard library only) |
 | `gate.py` | Earlier terminal version of the chat |
 | `run_tests.py` | Runs the 42-question test bank and grades it automatically |
-| `track_questions.txt` | The 42 test questions |
 | `results_summary.txt` | Result of the final full test run |
 
 ## Setup

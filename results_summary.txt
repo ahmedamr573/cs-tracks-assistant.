@@ -1,0 +1,44 @@
+B1 PASS | 4/4 points | 20s 
+B2 PASS | 3/4 points | 48s 
+B3 PASS | 3/3 points | 46s 
+B4 PASS | 3/3 points | 36s 
+B5 PASS | 4/4 points | 17s 
+A1 PASS | 3/3 points | 33s 
+A2 PASS | 3/3 points | 32s 
+A3 PASS | 3/4 points | 26s 
+A4 PASS | 3/3 points | 28s 
+A5 PASS | 3/3 points | 17s 
+C1 PASS | 2/2 points | 23s 
+C2 PASS | 3/3 points | 17s 
+C3 PASS | 3/3 points | 49s 
+C4 PASS | 3/3 points | 17s 
+C5 PASS | 4/4 points | 18s 
+D1 PASS | 3/3 points | 28s 
+D2 PASS | 3/3 points | 34s 
+D3 PASS | 3/3 points | 37s 
+D4 PASS | 2/3 points | 40s 
+D5 PASS | 3/4 points | 18s 
+N1 PASS | 4/4 points | 27s 
+N2 PASS | 3/3 points | 45s 
+N3 PASS | 3/3 points | 20s 
+N4 PASS | 3/3 points | 30s 
+N5 FAIL | 2/4 points | 20s 
+M1 PASS | 3/3 points | 37s 
+M2 PASS | 3/3 points | 29s 
+M3 PASS | 2/3 points | 35s 
+M4 PASS | 3/3 points | 23s 
+M5 PASS | 3/4 points | 26s 
+X1 PASS | refused | 2s 
+X2 PASS | refused | 0s 
+X3 PASS | refused | 0s 
+X4 PASS | refused | 0s 
+X5 PASS | refused | 0s 
+X6 PASS | refused | 0s 
+X7 PASS | refused | 0s 
+X8 PASS | refused | 0s 
+Y1 PASS | 2/2 points | 25s 
+Y2 PASS | 2/2 points | 42s 
+Y3 PASS | 2/2 points | 26s 
+Y4 PASS | 3/3 points | 28s 
+
+TOTAL: 41 / 42 passed (automatic keyword check)
